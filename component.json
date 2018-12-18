@@ -1,0 +1,16 @@
+{
+  "name": "product_tabs",
+  "version": "1.0.0",
+  "description": "Вкладки на странице товара",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/product_tabs",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "product_reviews": "https://github.com/insales-components/product_reviews",
+    "DataTabs": "https://github.com/insales-components/DataTabs"
+  }
+}
